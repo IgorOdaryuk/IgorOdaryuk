@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f59e0b&height=200&section=header&text=Hi,%20I'm%20Igor%20Odariuk&fontColor=ffffff&fontSize=44&desc=Local%20SEO%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20tools%20for%20home-service%20businesses&descSize=18&descAlignY=64" width="100%" alt="Igor Odariuk"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f59e0b&height=210&section=header&text=Hi,%20I'm%20Igor%20Odariuk&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Local%20SEO%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20tools%20for%20home-service%20businesses&descSize=18&descAlignY=55" width="100%" alt="Igor Odariuk"/>
 </p>
 
 <!-- Social badges -->
