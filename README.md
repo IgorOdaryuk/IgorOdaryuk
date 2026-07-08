@@ -45,13 +45,6 @@ A free, browser-based tool that reads your **Google Search Console** export and 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorOdaryuk&show_icons=true&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9&bg_color=0d1117" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorOdaryuk&layout=compact&hide_border=true&title_color=f59e0b&text_color=c9d1d9&bg_color=0d1117" height="165" alt="top langs"/>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IgorOdaryuk&color=f59e0b&style=flat-square&label=Profile+views" alt="profile views"/>
 </p>
