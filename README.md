@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f59e0b&height=210&section=header&text=Hi,%20I'm%20Igor%20Odariuk&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Local%20SEO%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20tools%20for%20home-service%20businesses&descSize=18&descAlignY=55" width="100%" alt="Igor Odariuk"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=210&section=header&text=Hi,%20I'm%20Igor%20Odariuk&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Local%20SEO%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20tools%20for%20home-service%20businesses&descSize=18&descAlignY=55" width="100%" alt="Igor Odariuk"/>
 </p>
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://odariuk.com"><img src="https://img.shields.io/badge/Portfolio-odariuk.com-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://odariuk.com"><img src="https://img.shields.io/badge/Portfolio-odariuk.com-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/igorodaryuk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:odaryukigor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://odariuk.com/blog"><img src="https://img.shields.io/badge/Blog-Read-1e293b?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
@@ -22,7 +22,8 @@ Not just an SEO guy: I build the systems and the software that move rankings and
 |---|---|
 | 🔭 **Consulting** | Local SEO & Automation for home-service businesses |
 | 🛠️ **Building** | [CanniScope](https://github.com/IgorOdaryuk/Canniscope) — free keyword-cannibalization auditor for local SEO |
-| ⚡ **Stack** | Local/Technical SEO · Google Search Console · n8n automation · AI visibility · React/Vite |
+| 📱 **Mobile** | [mobile-portfolio](https://github.com/IgorOdaryuk/mobile-portfolio) — React Native / Expo apps · **[live demos ▶](https://igorodaryuk.github.io/mobile-portfolio/)** |
+| ⚡ **Stack** | Local/Technical SEO · Google Search Console · n8n automation · AI visibility · React/Vite · React Native |
 | 🌐 **Portfolio** | [odariuk.com](https://odariuk.com) |
 | ✍️ **Blog** | [odariuk.com/blog](https://odariuk.com/blog) |
 | 📫 **Contact** | odaryukigor@gmail.com |
@@ -60,7 +61,7 @@ Production-grade **React Native + Expo + TypeScript** apps — clean architectur
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IgorOdaryuk&color=f59e0b&style=flat-square&label=Profile+views" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=IgorOdaryuk&color=2563eb&style=flat-square&label=Profile+views" alt="profile views"/>
 </p>
 
 ---
