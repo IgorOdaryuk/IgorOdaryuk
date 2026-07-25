@@ -1,30 +1,30 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=210&section=header&text=Hi,%20I'm%20Igor%20Odariuk&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Local%20SEO%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20tools%20for%20home-service%20businesses&descSize=18&descAlignY=55" width="100%" alt="Igor Odariuk"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=210&section=header&text=Hi,%20I'm%20Igor%20Odariuk&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=GEO%20%E2%80%A2%20AI%20Visibility%20%E2%80%A2%20Local%20SEO%20for%20home-service%20businesses&descSize=18&descAlignY=55" width="100%" alt="Igor Odariuk"/>
 </p>
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://odariuk.com"><img src="https://img.shields.io/badge/Portfolio-odariuk.com-eab308?style=for-the-badge&logo=vercel&logoColor=white&labelColor=16a34a" alt="Portfolio"/></a>
+  <a href="https://odariuk.com"><img src="https://img.shields.io/badge/Portfolio-odariuk.com-16a34a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=16a34a" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/igorodaryuk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:odaryukigor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/IgorOdaryuk/mobile-portfolio"><img src="https://img.shields.io/badge/Mobile-apps-eab308?style=for-the-badge&logo=expo&logoColor=white&labelColor=7c3aed" alt="Mobile apps"/></a>
-  <a href="https://odariuk.com/blog"><img src="https://img.shields.io/badge/Blog-Read-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://github.com/IgorOdaryuk/mobile-portfolio"><img src="https://img.shields.io/badge/Mobile-apps-eab308?style=for-the-badge&logo=expo&logoColor=000000&labelColor=eab308" alt="Mobile apps"/></a>
+  <a href="https://odariuk.com/blog"><img src="https://img.shields.io/badge/Blog-Read-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=7c3aed" alt="Blog"/></a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I help **US home-service businesses** (appliance repair, HVAC, plumbing, cleaning) win local search — combining **local SEO + automation + custom tools** in one.
-Not just an SEO guy: I build the systems and the software that move rankings and cut busywork.
+I help **US home-service businesses** (appliance repair, HVAC, plumbing, cleaning) get found in **AI answers and local search** — **GEO (Generative Engine Optimization) + AI visibility**, backed by local SEO and automation.
+Not just an SEO guy: I build the systems and software that get businesses **cited by ChatGPT, Gemini, Perplexity and Google AI Overviews** — and cut the busywork.
 
 |   |   |
 |---|---|
-| 🔭 **Consulting** | Local SEO & Automation for home-service businesses |
+| 🔭 **Consulting** | GEO / AI visibility + Local SEO & Automation for home-service businesses |
 | 🛠️ **Building** | [CanniScope](https://github.com/IgorOdaryuk/Canniscope) — free keyword-cannibalization auditor for local SEO |
 | 📱 **Mobile** | [mobile-portfolio](https://github.com/IgorOdaryuk/mobile-portfolio) — React Native / Expo apps · **[live demos ▶](https://igorodaryuk.github.io/mobile-portfolio/)** |
-| ⚡ **Stack** | Local/Technical SEO · Google Search Console · n8n automation · AI visibility · React/Vite · React Native |
+| ⚡ **Stack** | GEO / AI visibility · Local & Technical SEO · Google Search Console · n8n automation · React/Vite · React Native |
 | 🌐 **Portfolio** | [odariuk.com](https://odariuk.com) |
 | ✍️ **Blog** | [odariuk.com/blog](https://odariuk.com/blog) |
 | 📫 **Contact** | odaryukigor@gmail.com |
@@ -33,8 +33,8 @@ Not just an SEO guy: I build the systems and the software that move rankings and
 
 ### 📈 Real results (client work)
 
+- **41 pages** cited across 7 AI engines — ChatGPT, Gemini, Perplexity, Grok, Copilot, Google AI Overviews & AI Mode (GEO in action)
 - **321K** search impressions in 6 months (~6× growth)
-- **41 pages** cited across 7 AI engines (ChatGPT, Gemini, Perplexity, Grok, Copilot, AI Overviews, AI Mode)
 - **$23K** in wasted Local Services Ads spend identified & disputed
 - **64 → 496** indexed pages on a multi-location build
 
