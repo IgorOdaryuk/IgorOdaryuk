@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=210&section=header&text=Hi,%20I'm%20Igor%20Odariuk&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=GEO%20%E2%80%A2%20AI%20Visibility%20%E2%80%A2%20Local%20SEO%20for%20home-service%20businesses&descSize=18&descAlignY=55" width="100%" alt="Igor Odariuk"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=210&section=header&text=Hi,%20I'm%20Igor%20Odariuk&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20Visibility%20%28GEO%29%20%E2%80%A2%20Local%20SEO%20for%20home-service%20businesses&descSize=18&descAlignY=55" width="100%" alt="Igor Odariuk"/>
 </p>
 
 <!-- Social badges -->
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/igorodaryuk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:odaryukigor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/IgorOdaryuk/mobile-portfolio"><img src="https://img.shields.io/badge/Mobile-apps-eab308?style=for-the-badge&logo=expo&logoColor=000000&labelColor=eab308" alt="Mobile apps"/></a>
-  <a href="https://odariuk.com/blog"><img src="https://img.shields.io/badge/Blog-Read-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=7c3aed" alt="Blog"/></a>
+  <a href="https://odariuk.com/blog"><img src="https://img.shields.io/badge/Blog-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
 </p>
 
 ---
@@ -92,4 +92,4 @@ Open to **GEO / AI-visibility audits**, **local-SEO builds**, and **automation +
 
 ---
 
-<p align="center"><i>Your Google ranking is someone else's phone ringing. Let's make it yours.</i></p>
+<p align="center"><i>Your Google ranking — and your AI citations — are someone else's phone ringing. Let's make them yours.</i></p>
