@@ -51,10 +51,10 @@ Not just an SEO guy: I build the systems and software that get businesses **cite
 
 ### 📈 Real results (client work)
 
-- **41 pages** cited across 7 AI engines — ChatGPT, Gemini, Perplexity, Grok, Copilot, Google AI Overviews & AI Mode (GEO in action)
-- **321K** search impressions in 6 months (~6× growth)
-- **$23K** in wasted Local Services Ads spend identified & disputed
+- **Surfaced in 1,000+ AI answers** across 7 engines — 348 in ChatGPT, 141 in Google AI Overviews, plus Gemini, Perplexity, Copilot, Grok & AI Mode (GEO in action)
+- **449K** search impressions · **7.43K** clicks in 6 months
 - **64 → 496** indexed pages on a multi-location build
+- **$23K** in wasted Local Services Ads spend identified & disputed
 
 ---
 
