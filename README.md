@@ -5,10 +5,11 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://odariuk.com"><img src="https://img.shields.io/badge/Portfolio-odariuk.com-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://odariuk.com"><img src="https://img.shields.io/badge/Portfolio-odariuk.com-eab308?style=for-the-badge&logo=vercel&logoColor=white&labelColor=16a34a" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/igorodaryuk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:odaryukigor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://odariuk.com/blog"><img src="https://img.shields.io/badge/Blog-Read-1e293b?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://github.com/IgorOdaryuk/mobile-portfolio"><img src="https://img.shields.io/badge/Mobile-apps-eab308?style=for-the-badge&logo=expo&logoColor=white&labelColor=7c3aed" alt="Mobile apps"/></a>
+  <a href="https://odariuk.com/blog"><img src="https://img.shields.io/badge/Blog-Read-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
 </p>
 
 ---
