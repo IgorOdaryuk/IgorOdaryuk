@@ -45,6 +45,20 @@ A free, browser-based tool that reads your **Google Search Console** export and 
 
 ---
 
+### 📱 Mobile development — [mobile-portfolio](https://github.com/IgorOdaryuk/mobile-portfolio)
+
+Production-grade **React Native + Expo + TypeScript** apps — clean architecture (pure, unit-tested logic + thin UI), light/dark theming, SVG charts, and live web demos you can open right in the browser.
+
+|   |   |
+|---|---|
+| 🚀 **Client Hub** | Phone-first CRM for home-service businesses — Client 360, pipeline board, auto follow-ups · [live demo](https://igorodaryuk.github.io/mobile-portfolio/) |
+| 🥗 **Eat2Beat** | Calorie & macro tracker — calorie ring, weight trend, Mifflin-St Jeor goals, auto-insights, dark mode · [live demo](https://igorodaryuk.github.io/mobile-portfolio/eat2beat/) |
+| 🧴 **Solva** | Premium skincare storefront — browse → cart → checkout, all inline-SVG product art · [live demo](https://igorodaryuk.github.io/mobile-portfolio/storefront/) |
+
+⚡ **Stack:** React Native 0.86 · Expo SDK 57 · React 19 · TypeScript (strict) · react-native-svg · Jest
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IgorOdaryuk&color=f59e0b&style=flat-square&label=Profile+views" alt="profile views"/>
 </p>
