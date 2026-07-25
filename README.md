@@ -31,6 +31,24 @@ Not just an SEO guy: I build the systems and software that get businesses **cite
 
 ---
 
+### 🧰 Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/GEO%20%2F%20AI%20Visibility-7c3aed?style=flat-square&logo=openai&logoColor=white" alt="GEO / AI Visibility"/>
+  <img src="https://img.shields.io/badge/Local%20SEO-16a34a?style=flat-square&logo=googlemaps&logoColor=white" alt="Local SEO"/>
+  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="Google Search Console"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+---
+
 ### 📈 Real results (client work)
 
 - **41 pages** cited across 7 AI engines — ChatGPT, Gemini, Perplexity, Grok, Copilot, Google AI Overviews & AI Mode (GEO in action)
@@ -58,6 +76,13 @@ Production-grade **React Native + Expo + TypeScript** apps — clean architectur
 | 🧴 **Solva** | Premium skincare storefront — browse → cart → checkout, all inline-SVG product art · [live demo](https://igorodaryuk.github.io/mobile-portfolio/storefront/) |
 
 ⚡ **Stack:** React Native 0.86 · Expo SDK 57 · React 19 · TypeScript (strict) · react-native-svg · Jest
+
+---
+
+### 🤝 Work with me
+
+Open to **GEO / AI-visibility audits**, **local-SEO builds**, and **automation + custom tools** for home-service businesses.
+→ [odariuk.com](https://odariuk.com) · [odaryukigor@gmail.com](mailto:odaryukigor@gmail.com)
 
 ---
 
